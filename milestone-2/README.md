@@ -1,10 +1,8 @@
 # Milestone 2 — Database Implementation
 
-Deliverable: `lastname_firstname_milestone2.sql` (replace lastname_firstname with your name).
+Deliverable file: milestone-2/Hall_Marcellus_milestone2.sql
 
-How to run (MySQL):
-mysql -u <username> -p < milestone-2/lastname_firstname_milestone2.sql
-
-Notes:
-- This file recreates the database from scratch, creates tables, applies constraints and foreign keys, and inserts realistic seed data.
-- Main tables include 10+ records each as required by the course.
+This placeholder file will be replaced with the full SQL script that:
+- Creates the database and tables
+- Adds primary keys, foreign keys, and constraints
+- Inserts realistic seed data (10+ records per main table)
