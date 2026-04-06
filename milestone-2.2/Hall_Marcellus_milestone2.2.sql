@@ -1,0 +1,4 @@
+-- TODO: Replace this placeholder with all Milestone 2.2 SQL queries
+-- Name: Your Name
+-- Project: Sneaker Catalog Database System
+-- Milestone 2.2: SQL Queries
